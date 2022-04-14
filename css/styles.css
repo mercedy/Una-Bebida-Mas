@@ -6,7 +6,7 @@
 
 body {
 	font-family: Bebas Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" sans-serif;
-	background-color: #868484;
+	background-color: #FFFFFF;
 }
 
 /* Changing the background colour for the header */
@@ -23,7 +23,7 @@ header {
 
 .container{
 	width: 70%;
-	align-content: center;
+	align-content: space-between;
 }
 
 /* Effect on social media buttons */
@@ -32,5 +32,5 @@ footer a:hover {
 	opacity: .5;
 }
 .color {
-	background-color: #898888;
+	background-color: #020202;
 }
