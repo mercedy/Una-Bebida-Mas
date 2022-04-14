@@ -21,6 +21,11 @@ header {
 	background-color: #FFFFFF
 }
 
+.container{
+	width: 80%;
+	align-content: center;
+}
+
 /* Effect on social media buttons */
 
 footer a:hover {
