@@ -43,3 +43,9 @@ footer a:hover {
 .color {
 	background-color: #020202;
 }
+.button{
+	position: absolute;
+	top: 50%;
+	background-color: #6B6464;
+	color:aqua
+}
