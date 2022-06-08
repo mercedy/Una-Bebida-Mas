@@ -22,8 +22,9 @@ header {
 }
 
 .container{
-	width: 60%;
-	align-content: space-between;
+	width: 80%;
+	height: 80%;
+	align-content: space-between; 
 }
 
 /* Effect on social media buttons */
