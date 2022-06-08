@@ -5,13 +5,13 @@
 /* Changing the main font and background colour */
 header {
 	background-color: #2B2727;
-	margin: 10px
+
 }
 
 body {
 	font-family: Bebas Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" sans-serif;
 	background-color: #FFFFFF;
-	margin: 50px
+
 }
 
 /* Changing the background colour for the header */
