@@ -15,13 +15,13 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #7F421D;
+	background-color: #008746;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #FFFFFF
+	background-color: #7F421D;
 }
 
 .container > div{
