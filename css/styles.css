@@ -15,13 +15,18 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #008746;
+/*	background-color: #008746;*/
+	background-color: #C6BA30;
+
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
 	background-color: #7F421D;
+	margin: auto;
+  	width: 90%;
+	border-radius: 25px;
 }
 
 .container > div{
@@ -53,3 +58,55 @@ footer a:hover {
 
 	
 }
+.py-2{
+	
+	margin: auto;
+  	width: 60%;
+
+	
+}
+
+.timeline{
+	margin: auto;
+  	width: 60%;
+	
+}
+
+
+.text-center{
+	margin: auto;
+  	width: 60%;
+}
+
+
+.container-fluid{
+	margin: auto;
+  	width: 60%;
+	border-radius: 15px;
+	
+}
+
+
+.col-xl-3{
+	margin: auto;
+  	width: 90%;
+}
+
+.m-2{
+/*	float: none;*/
+	float: right;
+	margin-right: 30%;
+}
+.btn{
+	background-color: #7F421D;
+}
+
+.nav-link{
+	color: white;
+}
+/*
+.button{
+	border-radius: 8px;
+}
+*/
+
